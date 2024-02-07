@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Artem Khrienov
 
----
-
 🚀 **_Welcome to my digital space_** where creativity meets technology! I'm a seasoned Software Engineer with a rich professional journey that spans over half a decade in Frontend technologies and beyond six fruitful years in Backend development.
 
 ---
