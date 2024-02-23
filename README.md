@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Artem Khrienov
 
-🚀 **_Welcome to my digital space_** let's explore where technology and innovation intersect! I'm a Software Developer with 10+ years of full-stack web development experience, combining a strong frontend foundation (JavaScript, TypeScript, React, Vue, Next.js) with robust backend expertise (Node.js, NestJS, Ruby on Rails). I specialize in building scalable, performant applications using REST APIs, GraphQL, and cloud services (AWS, Google Cloud). My passion lies in crafting seamless user experiences and solving complex technical challenges across the entire development lifecycle.
+🚀 **_Welcome to my digital space_** - let's explore where technology and innovation intersect! I'm a Software Developer with 10+ years of full-stack web development experience, combining a strong frontend foundation (JavaScript, TypeScript, React, Vue, Next.js) with robust backend expertise (Node.js, NestJS, Ruby on Rails). I specialize in building scalable, performant applications using REST APIs, GraphQL, and cloud services (AWS, Google Cloud). My passion lies in crafting seamless user experiences and solving complex technical challenges across the entire development lifecycle.
 
 ---
 
